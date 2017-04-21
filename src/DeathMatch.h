@@ -34,8 +34,6 @@ struct tDeathmatch{
     bool esperandoParticipantes;
 };
  
-tDeathmatch deathmatch;
- 
 void CargaDeath();
 
 void ArmarDeath(int id, int cupos, bool objetos, int premio, int inscripcion);
