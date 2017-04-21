@@ -18,7 +18,6 @@ struct tUsuario{
  
 struct tDeathmatch{
     bool activo;
-    Usuarios() As tUsuario;
     vb6::array<struct tUsuario> usuarios;
     bool objetos;
     int conteo;
