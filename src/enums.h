@@ -540,6 +540,8 @@ struct ModRaza;
 struct Char;
 struct WorldPos;
 struct ModClase;
+struct tUsuario;
+struct tDeathmatch;
 class clsParty;
 class Statistics;
 class clsClan;
